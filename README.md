@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm Aaron Cabasis!</h1>
 <h3 align="left">Aspiring Front-End Web Developer</h3>
-<p>&nbsp</p>
 
 
 - 🌱 I’m currently learning **PHP, and Django**
