@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Aaron Cabasis!</h1>
-<h3 align="left">Aspiring Front-End Web Developer</h3>
+<h1 align="left">Aspiring Front-End Web Developer</h1>
 
 
 - 🌱 I’m currently learning **PHP, and Django**
