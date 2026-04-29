@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aaron Cabasis!</h1>
-<h3 align="center">Aspiring Front-End Web Developer</h3>
+<h1 align="left">Hi 👋, I'm Aaron Cabasis!</h1>
+<h3 align="left">Aspiring Front-End Web Developer</h3>
 
 
 
