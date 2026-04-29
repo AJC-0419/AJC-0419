@@ -19,8 +19,13 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- Front end: HTML5, CSS, Boostrap 
-- Back end: PHP, Django
-- Database: MySQL
-- Programming: Python, C++, Java, JavaScript
-- Other: Git
+
+<ul>
+  <li><b>Front end</b>: HTML5, CSS, Boostrap </li>
+  <li><b>Back end</b>: PHP, Django </li>
+  <li><b>Database</b>: MySQL</li>
+  <li><b>Programming</b>: Python, C++, Java, JavaScript</li>
+  <li><b>Other</b>: Git</li>
+</ul>
+
+
