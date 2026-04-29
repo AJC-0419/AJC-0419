@@ -1,7 +1,7 @@
 <h1 align="left">Aspiring Front-End Web Developer</h1>
 
 
-- 🌱 I’m currently a 2nd year Information Technology Student at UST, learning **PHP, and Django(personally)**
+- 🌱 I’m currently a 2nd year Information Technology Student at UST, learning **PHP, and Django (personally)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AJC-0419/Front-end-projects](https://github.com/AJC-0419/Front-end-projects)
 
