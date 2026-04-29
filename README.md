@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aaron-cabasis-99a92632a/](https://www.linkedin.com/in/aaron-cabasis-99a92632a/)
 
-- ⚡ Fun fact **Aj, 20, Philippines, Beginner in web development**
+- ⚡ Fun fact **Aj, 20, Philippines, planning to pursue Web and Mobile Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
