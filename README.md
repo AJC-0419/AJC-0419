@@ -1,15 +1,15 @@
 <h1 align="left">Aspiring Front-End Web Developer</h1>
 
 
-- 🌱 I’m currently a 2nd year Information Technology Student at UST, learning **PHP, and Django (personally)**
+- I’m currently a 2nd year Information Technology Student at UST, learning **PHP, and Django (personally)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AJC-0419/Front-end-projects](https://github.com/AJC-0419/Front-end-projects)
+- All of my projects are available at [https://github.com/AJC-0419/Front-end-projects](https://github.com/AJC-0419/Front-end-projects)
 
-- 📫 How to reach me **ronron110912@gmail.com**
+- How to reach me **ronron110912@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aaron-cabasis-99a92632a/](https://www.linkedin.com/in/aaron-cabasis-99a92632a/)
+- Know about my experiences [https://www.linkedin.com/in/aaron-cabasis-99a92632a/](https://www.linkedin.com/in/aaron-cabasis-99a92632a/)
 
-- ⚡ Fun fact **Aj, 20, Philippines, planning to pursue Web and Mobile Development**
+- Fun facts: **Aj, 20, Philippines, planning to pursue Web and Mobile Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
