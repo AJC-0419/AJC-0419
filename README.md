@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Aaron</h1>
 
 
-- I’m currently a 3rd year Information Technology Student at UST, learning **PHP, and Django**
+- I’m currently a 3rd year Information Technology Student at UST, learning **Django, Angular JS and Materialize CSS**
 
 - All of my projects are available at [https://github.com/AJC-0419/Front-end-projects](https://github.com/AJC-0419/Front-end-projects)
 
@@ -22,8 +22,9 @@
   <li><b>Front end</b>: HTML5, CSS, Boostrap </li>
   <li><b>Back end</b>: PHP, Django </li>
   <li><b>Database</b>: MySQL</li>
+  <li><b>Framworks</b>: Bootstrap</li>
   <li><b>Programming</b>: Python, C++, Java, JavaScript</li>
-  <li><b>Other</b>: Git</li>
+  <li><b>Other</b>: Git, Android Studio, Visual Studio</li>
 </ul>
 
 
