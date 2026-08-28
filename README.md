@@ -3,7 +3,7 @@
 
 - I’m currently a 3rd year Information Technology Student at UST, learning **Django, Angular JS and Materialize CSS**
 
-- All of my projects are available at [https://github.com/AJC-0419/Front-end-projects](https://github.com/AJC-0419/Front-end-projects)
+- All of my projects are available at Front-end projects or on the pinned repositories down below
 
 - How to reach me **ajm.cabasis@gmail.com**
 
