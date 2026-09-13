@@ -1,7 +1,7 @@
 <h1 align="left">Hi! I'm Aaron</h1>
 
 
-- I’m currently a 3rd year Information Technology Student at UST, learning **Django, Angular JS and Materialize CSS**
+- I’m currently a 3rd year Information Technology Student at UST, learning **Django (personal), Angular JS and Materialize CSS**
 
 - All of my projects are available at Front-end projects or on the pinned repositories down below
 
